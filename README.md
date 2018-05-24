@@ -1,4 +1,4 @@
-# DiscordUpdates
-111
+GitHub Webhook Link
 
-YEET BOI
+
+api.discord.github
